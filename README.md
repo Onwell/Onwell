@@ -34,23 +34,16 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=Onwell&style=flat-square&color=blue" alt="Profile Views Counter"/>
-
----
-
 # My GitHub Profile
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Onwell&show_icons=true&theme=dark&count_private=true)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
-
-## Contributions
-
-Total contributions since Aug 11, 2018
-
-Longest Streak: 23 days (Sep 18 - Oct 10)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Onwell&theme=dark)
 
 ---
 
-Feel free to explore my repositories and contributions! 😊
+<img src="https://komarev.com/ghpvc/?username=Onwell&style=flat-square&color=blue" alt="Profile Views Counter"/>
+
+
+
 
