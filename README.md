@@ -32,13 +32,13 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onwell&layout=compact&theme=radical)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=onwell&theme=light)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=onwell&theme=dark)
 
 ---
 
 ## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=onwell&theme=lighthub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=onwell&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
