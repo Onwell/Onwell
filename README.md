@@ -5,10 +5,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="[https://linkedin.com/in/johndoe](https://www.linkedin.com/today/author/onwell-masaraure-b14200130)">
+  <a href="[[https://linkedin.com/in/johndoe](https://www.linkedin.com/today/author/onwell-masaraure-b14200130)](https://www.linkedin.com/today/author/onwell-masaraure-b14200130)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[https://twitter.com/johndoe](https://www.facebook.com/smugsolutions/)">
+  <a href="[https://www.facebook.com/smugsolutions/](https://www.facebook.com/smugsolutions/)">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="#">
