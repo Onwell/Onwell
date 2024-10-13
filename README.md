@@ -28,7 +28,7 @@
 ---
 
 ### GitHub Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Onwell&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onwell&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onwell&layout=compact&theme=radical)
 
@@ -36,19 +36,19 @@
 
 # My GitHub Profile
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Onwell&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onwell&show_icons=true&theme=dark&count_private=true)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Onwell&theme=dark)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=onwell&theme=dark)
 
 ---
 
 ## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Onwell&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=onwell&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=Onwell&style=flat-square&color=blue" alt="Profile Views Counter"/>
+<img src="https://komarev.com/ghpvc/?username=onwell&style=flat-square&color=blue" alt="Profile Views Counter"/>
 
 
 
