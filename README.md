@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <div id="badges">
 <a href="https://zw.linkedin.com/in/onwell-masaraure-b14200130">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://komarev.com/ghpvc/?Onwell=your-github-onwell&style=flat-square&color=blue" alt="GitHub Profile Views"/>
 </a>
 </div>
 
@@ -26,4 +27,5 @@ Here are some ideas to get you started:
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<img src="https://komarev.com/ghpvc/?Onwell=your-github-onwell&style=flat-square&color=blue" alt="GitHub Profile Views"/>
+
+
