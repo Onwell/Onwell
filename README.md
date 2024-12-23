@@ -20,7 +20,7 @@
 ---
 
 ### About Me 👨‍💻
-- 🌱 I’m currently learning **React and Node.js**
+- 🌱 I’m a fan of **React and Node.js**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me: **o.masaraure@gmail.com**
 - ⚡ Fun fact: **I love football and coding at the same time**
@@ -43,7 +43,3 @@
 ---
 
 <img src="https://komarev.com/ghpvc/?username=onwell&style=flat-square&color=blue" alt="Profile Views Counter"/>
-
-
-
-
