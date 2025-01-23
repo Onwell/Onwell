@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
   <h1>Hi, I'm Onwell Masaraure 👋</h1>
   <h3>A passionate developer from Zimbabwe</h3>
 </div>
@@ -11,10 +10,6 @@
 <a href="https://www.facebook.com/smugsolutions/">
   <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
 </a>
-
-  <a href="#">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
 </div>
 
 ---
@@ -33,12 +28,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Onwell&layout=compact&theme=radical)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=onwell&theme=dark)
-
----
-
-## GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=onwell&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
